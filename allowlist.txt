@@ -1,1 +1,2 @@
 @@|*.costco.ca^$important
+@@|*.costco.com^$important

@@ -1,3 +1,4 @@
 @@|*.costco.ca^$important
 @@|*.costco.com^$important
 @@|*.tangerine.ca^$important
+@@|*.slackb.com^
